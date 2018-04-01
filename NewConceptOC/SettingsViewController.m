@@ -6,13 +6,13 @@
 //  Copyright © 2018年 Johnny. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "SettingsViewController.h"
 
-@interface SecondViewController ()
+@interface SettingsViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation SettingsViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

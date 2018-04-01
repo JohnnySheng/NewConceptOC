@@ -6,13 +6,13 @@
 //  Copyright © 2018年 Johnny. All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "MainViewController.h"
 
-@interface FirstViewController ()
+@interface MainViewController ()
 
 @end
 
-@implementation FirstViewController
+@implementation MainViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
