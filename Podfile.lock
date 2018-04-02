@@ -14,16 +14,27 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - AliyunOSSiOS (2.6.0)
+  - AVOSCloud (4.7.0)
+  - AVOSCloudIM (4.7.0):
+    - AVOSCloud (= 4.7.0)
+    - AVOSCloudIM/_ARC (= 4.7.0)
+    - AVOSCloudIM/_NOARC (= 4.7.0)
+  - AVOSCloudIM/_ARC (4.7.0):
+    - AVOSCloud (= 4.7.0)
+    - AVOSCloudIM/_NOARC (= 4.7.0)
+  - AVOSCloudIM/_NOARC (4.7.0):
+    - AVOSCloud (= 4.7.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0)
-  - AliyunOSSiOS
+  - AVOSCloud
+  - AVOSCloudIM
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  AliyunOSSiOS: '058b038cc82000dadb8f8e3893a97243124f2898'
+  AVOSCloud: 17338cfe698a4bda68c60b857519153863c4b3b7
+  AVOSCloudIM: e57ef1196b60aedb5e976a92349fa144f3362624
 
-PODFILE CHECKSUM: 18a19287a95aeda65ddd7f36db855f55d4f51fab
+PODFILE CHECKSUM: 881be6c16edd7ab6a76ed6b1edd62139083630ce
 
 COCOAPODS: 1.2.1
